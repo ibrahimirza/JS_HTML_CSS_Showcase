@@ -1,1 +1,1 @@
-# DOM_JavaScript_ProjectS
+# DOM_JavaScript_Projects
