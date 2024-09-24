@@ -27,8 +27,4 @@ This is a simple web application that displays the user's local time on the webp
     - The script selects the `clock` element using `document.getElementById()`.
     - A `setInterval()` function updates the inner HTML of the `clock` div every second with the user's local time using `date.toLocaleTimeString()`.
 
-## Installation and Usage
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/ibrahimirza/your-local-time.git
