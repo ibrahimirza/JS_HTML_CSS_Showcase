@@ -11,7 +11,7 @@ This is a simple web application that allows users to switch the background colo
 ## Project Structure
 
 - **index.html**: The main structure of the webpage, containing the HTML elements.
-- **style.css**: The CSS file (assumed to be present) to style the elements in the HTML.
+- **style.css**: The CSS file to style the elements in the HTML.
 - **script.js**: The JavaScript file responsible for changing the background color based on user interaction.
 
 ## How It Works
