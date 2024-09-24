@@ -31,4 +31,4 @@ This is a simple web application that displays the user's local time on the webp
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-local-time.git
+   git clone https://github.com/ibrahimirza/your-local-time.git
