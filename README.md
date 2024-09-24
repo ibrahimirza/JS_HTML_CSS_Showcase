@@ -1,4 +1,4 @@
-# DOM_JavaScript_Projects
+# Javascript DOM projects
 
 This repository contains multiple small web applications that demonstrate various JavaScript, HTML, and CSS functionalities. These projects cover topics such as event handling, DOM manipulation, dynamic styling, and generating random colors or displaying key codes. Each project has a distinct functionality to showcase core web development concepts.
 
