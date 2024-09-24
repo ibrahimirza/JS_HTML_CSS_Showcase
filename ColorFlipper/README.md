@@ -28,8 +28,3 @@ This is a simple web application that allows users to switch the background colo
   - Selects all elements with the class `.button` and listens for clicks on the `body` element.
   - On each click, the script checks the `id` of the clicked element and sets the background color of the body to match the clicked button's `id`.
 
-## Installation and Usage
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/javascript-background-color-switcher.git
