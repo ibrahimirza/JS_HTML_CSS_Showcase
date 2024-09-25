@@ -75,7 +75,7 @@ A fun project where the background color changes randomly every second upon clic
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ibrahimirza/DOM_JavaScript_Project.git
+   git clone https://github.com/ibrahimirza/JS_HTML_CSS_Showcase.git
 
 2. Navigate to the projec directory:
    ```bash
