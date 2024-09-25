@@ -33,7 +33,7 @@ A web application that dynamically displays the user's local time, which updates
   - JavaScript's `setInterval()` is used to update the time every second using `Date().toLocaleTimeString()`.
 
 - **Files**: 
-  - `index.html`, `script.js`, inline styles
+  - `index.html`, `script.js`
 
 ---
 
@@ -49,7 +49,7 @@ This project displays the key, keycode, and code of any key pressed on the keybo
   - JavaScript listens for the `keydown` event and updates the page content with the pressed key’s properties.
 
 - **Files**: 
-  - `index.html`, `script.js`, inline styles
+  - `index.html`, `script.js`
 
 ---
 
